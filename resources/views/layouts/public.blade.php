@@ -42,7 +42,7 @@
             <div class="row">
                 <div class="col-12 col-md">
                     <strong>Contact App</strong>
-                    <small class="d-block mb-3">© 2021-2022</small>
+                    <small class="d-block mb-3">© 2022</small>
                 </div>
                 <div class="col-6 col-md">
                     <h5>Features</h5>
