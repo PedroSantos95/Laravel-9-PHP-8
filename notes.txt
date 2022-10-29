@@ -1,0 +1,1 @@
+As rotas de uma API são definindas no ficheiro api.php
